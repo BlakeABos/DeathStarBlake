@@ -61,6 +61,7 @@ namespace DeathStarBlake
                 fg.DrawLine(whitePen, 260, 102, 260, 260);
                 fg.DrawLine(whitePen, 270, 102, 270, 260);
                 Thread.Sleep(10);
+
             }
             for (int x = 260, y = 15; y <= 265; y++)
             {
